@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+.playwright-cli/
+output/
+
+# Local snapshots captured while investigating the Seoul reservation site.
+*.html
+cal_*.json
+dp.helper.js
+dynaPath.js
