@@ -57,9 +57,9 @@
     "S260526181101813544": {
       "action": "예약하기",
       "available": true,
-      "last_changed_at": "2026-07-01T00:44:12+09:00",
+      "last_changed_at": "2026-07-01T02:31:09+09:00",
       "notified_available": true,
-      "status": "안내중",
+      "status": "접수중",
       "title": "7월 바비큐존(4인용, 2차:17시~22시) 26년 한강공원 난지캠핑장",
       "url": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260526181101813544"
     },
