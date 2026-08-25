@@ -91,11 +91,11 @@
       "url": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260702170616149354"
     },
     "S260702171612103874": {
-      "action": "예약하기",
-      "available": true,
-      "last_changed_at": "2026-07-15T17:23:25+09:00",
-      "notified_available": true,
-      "status": "접수중",
+      "action": "예약마감",
+      "available": false,
+      "last_changed_at": "2026-08-26T02:16:08+09:00",
+      "notified_available": false,
+      "status": "예약마감",
       "title": "8월 바비큐존(8인용, 2차:17시~22시) 26년 한강공원 난지캠핑장",
       "url": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260702171612103874"
     },
