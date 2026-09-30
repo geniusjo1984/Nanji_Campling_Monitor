@@ -161,6 +161,33 @@
       "status": "안내중",
       "title": "10월 바비큐존(12인용, 2차:17시~22시) 26년 한강공원 난지캠핑장",
       "url": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260901190114685806"
+    },
+    "S260929221736737410": {
+      "action": "",
+      "available": false,
+      "last_changed_at": "2026-10-01T00:23:13+09:00",
+      "notified_available": false,
+      "status": "안내중",
+      "title": "11월 바비큐존(4인용, 2차:17시~22시) 26년 한강공원 난지캠핑장",
+      "url": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260929221736737410"
+    },
+    "S260929222125703456": {
+      "action": "",
+      "available": false,
+      "last_changed_at": "2026-10-01T00:23:13+09:00",
+      "notified_available": false,
+      "status": "안내중",
+      "title": "11월 바비큐존(8인용, 2차:17시~22시) 26년 한강공원 난지캠핑장",
+      "url": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260929222125703456"
+    },
+    "S260929222503885030": {
+      "action": "",
+      "available": false,
+      "last_changed_at": "2026-10-01T00:23:13+09:00",
+      "notified_available": false,
+      "status": "안내중",
+      "title": "11월 바비큐존(12인용, 2차:17시~22시) 26년 한강공원 난지캠핑장",
+      "url": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260929222503885030"
     }
   },
   "version": 1
